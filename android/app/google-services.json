@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936075095235",
+    "project_id": "parkinsons-disease-01",
+    "storage_bucket": "parkinsons-disease-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936075095235:android:10a4dc3f8d915ee01a0676",
+        "android_client_info": {
+          "package_name": "com.group16.parkinsons_disease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936075095235-mcvo1r03ojotkqbj3vqia7d3hq8g0d03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHrDmZjSv8HB4CwR5JTIApSTXvGb2e7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936075095235-mcvo1r03ojotkqbj3vqia7d3hq8g0d03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
